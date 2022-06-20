@@ -5,6 +5,7 @@ public class A {
 		int a = 3, b = 5;
 		int result = a + b;
 		System.out.println("Sum = " + result);
+		System.out.println("This is the master branch");
 	}
 
 }
